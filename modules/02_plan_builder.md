@@ -1,7 +1,7 @@
 Change Log (2025-11-13):
 - Updated restaurant rule to support vegetarian only preference.
    
-Module 2 — Plan Builder (Options → Days)**
+**Module 2 — Plan Builder (Options → Days)**
 
 Create a short list of candidate activities (e.g., attractions, restaurants (vegetarian only), parks).Each activity includes type, estimated duration, cost range, and distance.
 
